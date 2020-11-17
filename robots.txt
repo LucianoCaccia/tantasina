@@ -1,0 +1,12 @@
+# Grupo 1
+User-agent: Googlebot
+Disallow: /include/
+Disallow: /js/
+Disallow: /images/
+Disallow: /css/
+
+# Grupo 2
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--tantasia-j3a.com.ar/sitemap.xml
